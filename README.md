@@ -31,4 +31,13 @@ whether different communities were impacted differently. Our
 findings suggest that the different policies impacted communities
 (race and ethnicity) differently.
 
+## Computing Impact using Proposed Method
+![drawing](https://github.com/yzm1205/COVID-19-US-Policy-Analysis/blob/main/Proposed-Algo.jpg)
+
+## Impact of NPIs on different States of USA
+![drawing](https://github.com/yzm1205/COVID-19-US-Policy-Analysis/blob/main/impact-state-wise.png)
+
+## Impact of Different NPIs on Races
+![drawing](https://github.com/yzm1205/COVID-19-US-Policy-Analysis/blob/main/race_policy_impact_optimized_v3.png)  
+where P's are policies such as **Stay-At-Home, Restaurant Closure, Business-Closure, Face Masks** and **Travel Ban** respectively. 
 
